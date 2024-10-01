@@ -1,27 +1,16 @@
-# Galaxy M1199
----
-A cool galaxy simulation using THREE JS particles inspired by the galaxy(unanimated) made by Bruno Simon's THREE JS Journey Course. You can see the live demo at: https://galaxy-m1199.web.app
+# 电子灵堂
 
-### How to run
-1. Clone or download the repository
-   `git clone https://github.com/the-halfbloodprince/GalaxyM1199.git`
-2. Open the folder in your favourite editor.
-3. Install the dependencies using:
-   if you're using yarn:
-   `yarn`
-   if you're using npm:
-   `npm i` or `npm install`
-4. Start the server using:
-   if you're using yarn:
-   `yarn run dev`
-   if you're using npm:
-   `npm run dev`
+[在线演示 Demo](https://asoulfucker.github.io/Lingtang_OnInternet/)
 
-You're default browser will pop up with the simulation running on a new tab.
+#### 优点
+ - 样式简单，一目了然。
+ - 可随意新添内容，搭配性好。
+ - 配置简单。
 
-### Try customising
-Try customising and playing with the code to improve the looks and performance of the simulation.
+#### 使用
 
-You can try controlling the model without having to go into the code using the top-right dat.gui menu. It is closed by default, you can click on the button that says 'Close Controls' to open the controls. In case controls aren't working well, try another browser.
+叉下来本项目，修改 index.html 头部中的配置。
 
-##### Made by The Half Blood Prince, no not Snape, Manish.
+修改 name，introduction，picture 等参数。
+
+完成。
