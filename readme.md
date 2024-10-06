@@ -1,16 +1,11 @@
-# 电子灵堂
+# Akebi-Mourning-Hall
 
-[在线演示 Demo](https://asoulfucker.github.io/Lingtang_OnInternet/)
+欢迎来到Akebi-GC的奇妙灵堂
 
-#### 优点
- - 样式简单，一目了然。
- - 可随意新添内容，搭配性好。
- - 配置简单。
+很抱歉，由于Akebi-GC开始收费化，我们不得不为其设立灵堂，以纪念免费版
 
-#### 使用
+Akebi可能会倒闭，但不会变质
 
-叉下来本项目，修改 index.html 头部中的配置。
+20美元的价格，应该是大多数人是不能接受的价格。
 
-修改 name，introduction，picture 等参数。
-
-完成。
+请允许我们在此献上最后的告别，以此纪念其在提瓦特留下的回忆与足迹。
